@@ -1,0 +1,9 @@
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\bin\Debug\TextReaderApp.exe.config
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\bin\Debug\TextReaderApp.exe
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\bin\Debug\TextReaderApp.pdb
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\obj\Debug\TextReaderApp.csprojAssemblyReference.cache
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\obj\Debug\TextReaderApp.Form1.resources
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\obj\Debug\TextReaderApp.Properties.Resources.resources
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\obj\Debug\TextReaderApp.csproj.GenerateResource.cache
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\obj\Debug\TextReaderApp.exe
+C:\Users\super\source\repos\TextReaderApp\TextReaderApp\obj\Debug\TextReaderApp.pdb
